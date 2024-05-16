@@ -2,7 +2,7 @@ JavaScript Operators
 
 JavaScript operators are symbols that are used to perform operations on operands.
  
-For example: let sum=10+20;  
+For example: let sum=10+20;
 
 Here, + is the arithmetic operator and = is the assignment operator.
 
